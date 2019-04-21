@@ -10,5 +10,5 @@ The repository contains two implementations of the protocol:
 
 To use the portable library who might have to update the *Bouncy Castle* library inside the project which is responsible for the SSL/TLS encryption. Look [here](http://www.bouncycastle.org/csharp/) for a suitable replacement.
 
-![](class_diagram_top.png)
-![](class_diagram_bottom.png)
+![Top half of class diagram](https://github.com/FlashTek/FTPNet/raw/master/class_diagram_top.png)
+![Bottom half of class diagram](https://github.com/FlashTek/FTPNet/raw/master/class_diagram_bottom.png)
